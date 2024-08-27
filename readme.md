@@ -1,0 +1,1 @@
+Demonstration of sorting through input and validating if it is a palindrome.
